@@ -1,1 +1,1 @@
-module.exports = ['nick', 'picture', 'location'];
+module.exports = ['nick', 'picture', 'location', 'allow_notifications'];

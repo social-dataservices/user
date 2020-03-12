@@ -9,6 +9,9 @@ module.exports = {
     },{
       name: 'location',
       type: 'geolocation'
+    },{
+      name: 'allow_notifications',
+      type: 'number'
     }]
   }
 };
